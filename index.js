@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('JAJA Manca sabia q eras Furra pero x, ando aburrido Ugu')
+    alert('VAAAAAAA, bueno antes que nd se llamara yusepe y sera el mvp del mundo')
 });
 
 const noBtn = document.querySelector('#noBtn');
